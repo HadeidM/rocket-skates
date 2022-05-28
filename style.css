@@ -1,0 +1,28 @@
+/*
+ * Author : Hadeid Mirza
+ */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #702f9e;
+}
+canvas {
+  display: block;
+}
+h1 {
+  text-align: center;
+  font-family: 'Play', sans-serif;
+  color: #F25C00;
+  display: block;
+}
+h3 {
+  text-align: center;
+  font-family: 'Play', sans-serif;
+  color: #F25C00;
+}
+p {
+  text-align: center;
+  color: #F25C00;
+  font-family: 'Play', sans-serif;
+}
+
