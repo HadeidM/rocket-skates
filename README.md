@@ -11,10 +11,12 @@ The rotating skates in the window is something that I 3D modelled using the [Rhi
 
 
 To interact with the canvas, you can move your mouse around and the 3D shapes will interact with wherever the mouse lies on the screen.
+
  <img src='demo.png' alt="demo" style="margin-left: 10px"/>
 
 
-<p>Additionally, you can also change the dimensions of the Torus shape using the slider in the bottom left side of the page.</p>
+<p>Additionally, you can also change the dimensions of the Torus shape using the slider in the bottom left side of the page.</p><br>
+
  <img src='slider.png' alt="slider" style="margin-left: 10px"/>
 
 Finally, the canvas adapts to the screen size of the user!
