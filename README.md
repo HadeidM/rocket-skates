@@ -21,4 +21,4 @@ To interact with the canvas, you can move your mouse around and the 3D shapes wi
 
 Finally, the canvas adapts to the screen size of the user!
 
-live webpage: [https://hadeidm.github.io/crazy-skates/](https://hadeidm.github.io/crazy-skates/) (Might be pretty slow)
+live webpage: [https://hadeidm.github.io/rocket-skates/](https://hadeidm.github.io/rocket-skates/) (Might be pretty slow)
